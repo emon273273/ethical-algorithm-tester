@@ -97,8 +97,27 @@ ethicalTester.accountabilityScore(actionLogs)
 Evaluates the accountability of the model development process.
 
 ## Contributing
+Contributions are welcome! We value any input, from fixing typos to suggesting new features or reporting bugs.
+How to Contribute
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Fork the repository: https://github.com/emon273273/ethical-algorithm-tester
+Create your feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
+## Guidelines
+
+Ensure your code follows the existing style pattern
+Update the README.md with details of changes if applicable
+Update the documentation when adding new features
+Write meaningful commit messages
+
+## Issues
+Feel free to submit issues and enhancement requests at https://github.com/emon273273/ethical-algorithm-tester/issues
+
+For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
 
 ## License
 
