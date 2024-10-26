@@ -1,12 +1,12 @@
 {
   "name": "ethical-algorithm-tester",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["ethical", "algorithms", "testing"],
+  "author": "emon.cse273@gmail.com",
   "license": "ISC",
   "description": "",
   "devDependencies": {

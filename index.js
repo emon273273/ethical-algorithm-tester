@@ -1,8 +1,8 @@
 // index.js
-const { calculateBias } = require('./bias/biasChecker');
-const { demographicParity } = require('./fairness/fairnessChecker');
-const { explainPrediction } = require('./transparency/explainability');
-const { accountabilityScore } = require('./accountability/accountabilityScorer');
+const { calculateBias } = require('./src/bias/biasChecker');
+const { demographicParity } = require('./src/fairness/fairnessChecker');
+const { explainPrediction } = require('./src/transparency/explainability');
+const { accountabilityScore } = require('./src/accountability/accountability');
 
 module.exports = {
     calculateBias,
